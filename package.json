@@ -1,0 +1,19 @@
+{
+  "name": "teams-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.17.0-blobs1",
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "restify": "^11.1.0"
+  }
+}
